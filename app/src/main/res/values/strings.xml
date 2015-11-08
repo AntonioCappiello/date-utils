@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DateUtilsExample</string>
+    <string name="intro">This is just an example app which shows how to use the date-utils library.
+        See the blog post on http://antoniocappiello.com on how to make your own library and publish it on jCenter.\n\nExamples of date-utils:\n</string>
 </resources>
